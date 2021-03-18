@@ -1,6 +1,8 @@
 ## Tela Icon Theme
 A flat colorful Design icon theme
 
+This is a fork that inherits from breeze-dark instead of hicolor, so much more icons will work in a plasma based envirionment
+
 ![Tela](../master/tela-dark.png)
 ![Tela](../master/tela-light.png)
 
